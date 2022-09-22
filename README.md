@@ -1,1 +1,4 @@
-Puzzle solver
+## Sudoku Solver
+
+
+Made with suey
